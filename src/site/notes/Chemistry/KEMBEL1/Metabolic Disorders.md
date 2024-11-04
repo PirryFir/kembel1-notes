@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chemistry/kembel-1/metabolic-disorders/","tags":["Chemistry/Biochemistry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/chemistry/kembel-1/metabolic-disorders/","tags":["Chemistry/Biochemistry","gardenEntry","gardenEntry"]}
 ---
 
 
